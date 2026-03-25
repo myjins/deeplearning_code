@@ -1,5 +1,5 @@
 # 日志
 ## 2026
 ### 3.25
-- 把senet,sknewideresne里了
+- 把senet,skne放wideresne里了
 - 弄了个仓库
