@@ -1,3 +1,4 @@
+# 日志和数据集的路径要改
 import argparse
 import os
 import shutil
